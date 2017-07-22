@@ -11,19 +11,20 @@ Since 2006
 
 ### Current Projects
 
-- **Diameter Computing for Very Large Graph:** finding strategies to
-  efficiently compute diameter of huge graphs. Experimental new algorithms
-  written in C, C++ and Go.
-- **Automatic Malware classification:** using deep learning to project malware
-  binary files in finite euclidean space combined with geometric spanners and
-  community algorithms for large scale clustering. A proof of concept, using
-  siamese LSTM networks will be soon published. Part of ViralStudio (funded
-  project on malware classification.)
-- **Concurrent Data Structures in Kernel Space:** implementations lock-free
+- **Automatic Malware classification:** using deep learning for clustering large
+  set of malware by famillies. Part of ViralStudio (funded project on malware
+  classification.)
+- **Geometric Spanner and Clustering:** exploiting construction of sparse graph
+  known as geometric spanner for clustering large set of data in higher
+  dimensions euclidean space.
+- **Concurrent Data Structures in Kernel Space:** implementations of lock-free
   data structures for an experimental kernel. Implementation in C based on
   intrusive lists approach with *hazard-pointers* and *RCU* semi-automatic memory
   management. This work also include study of integrating efficient concurrent
   data structures in userland for modern C++.
+- **Diameter Computing for Very Large Graph:** finding strategies to
+  efficiently compute diameter of huge graphs. Experimental new algorithms
+  written in C, C++ and Go.
 
 ### Older Project
 
@@ -91,6 +92,7 @@ Complements
 - [Marwan Burelle at lse-blog](http://blog.lse.epita.fr/authors/slashvar/index.html)
 - [C! Home Page](http://www.lse.epita.fr/projects/c!.html)
 - [This Resume](http://kh405.net)
+- [My Github](https://github.com/slashvar/)
 
 
 ----
