@@ -5,32 +5,36 @@ Marwan Burelle
 
 Current Position
 ----------------
-Since 2006
+Since 2018
 
-- **Team Leader** at EPITA's System Laboratory (LSE)
+- **Senior Software Engineer** in Search Core Squad at Algolia
 
 ### Current Projects
 
-- **Automatic Malware classification:** using deep learning for clustering large
-  set of malware by famillies. Part of ViralStudio (funded project on malware
-  classification.)
-- **Geometric Spanner and Clustering:** exploiting construction of sparse graph
-  known as geometric spanner for clustering large set of data in higher
-  dimensions euclidean space.
-- **Concurrent Data Structures in Kernel Space:** implementations of lock-free
-  data structures for an experimental kernel. Implementation in C based on
-  intrusive lists approach with *hazard-pointers* and *RCU* semi-automatic memory
-  management. This work also include study of integrating efficient concurrent
-  data structures in userland for modern C++.
-- **Diameter Computing for Very Large Graph:** finding strategies to
-  efficiently compute diameter of huge graphs. Experimental new algorithms
-  written in C, C++ and Go.
+- **Algolia Search Engine:** full feature textual search engine in C++
+    - **Performances:** measuring and improving preformances of the engine
+    - **Safe communications:** automatic key management for internal protocol
+    - **Code maintainance:** day to day work with a large C++ code base
 
-### Older Project
+Previous Positions
+------------------
 
-- **C!:** a compiler-to-compiler based language designed for kernel programming
-  with object oriented features and lower-level programming oriented syntactic
-  sugar.
+- **Teacher and Research Engineer** at EPITA (CS Engineering School in Paris)
+
+    - **Automatic Malware classification:** using deep learning for clustering large
+      set of malware by famillies. Part of ViralStudio (funded project on malware
+      classification.)
+    - **Geometric Spanner and Clustering:** exploiting construction of sparse graph
+      known as geometric spanner for clustering large set of data in higher
+      dimensions euclidean space.
+    - **Concurrent Data Structures in Kernel Space:** implementations of lock-free
+      data structures for an experimental kernel.
+    - **Diameter Computing for Very Large Graph:** finding strategies to
+      efficiently compute diameter of huge graphs. Experimental new algorithms
+      written in C, C++ and Go.
+    - **C!:** a compiler-to-compiler based language designed for kernel programming
+      with object oriented features and lower-level programming oriented syntactic
+      sugar.
 
 Education
 ---------
@@ -77,17 +81,12 @@ Complements
 - **Playing With Parallel Computing and Graph**,
   [Blog Post](http://pragmatic-programming.blogspot.fr/2014/07/playing-with-parallel-computing-and.html)
 
-### LSE Related Topics
-- Static program analysis
-- Development and debugging tools
-- Lower level programming
-- New strategies for teaching algorithmic and programming
-
 ### Interests
 - Music
 - Cooking
 
 ### Links
+- [Marwan's Tutorial Blog](https://slashvar.github.io/)
 - [Pragmatic Programming](http://pragmatic-programming.blogspot.fr) (blog)
 - [Marwan Burelle at lse-blog](http://blog.lse.epita.fr/authors/slashvar/index.html)
 - [C! Home Page](http://www.lse.epita.fr/projects/c!.html)
