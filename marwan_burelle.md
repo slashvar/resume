@@ -7,14 +7,15 @@ Current Position
 ----------------
 Since 2018
 
-- **Senior Software Engineer** in Search Core Squad at Algolia
+- **C++ Senior Software Engineer** at Algolia
 
 ### Current Projects
 
 - **Algolia Search Engine:** full feature textual search engine in C++
+    - Search and indexing services deployed on more than 2000 servers
+    - **Code maintainance:** refactoring and evolution of a large C++ code base
+    - **On call:** incident response for the search service (99.999% SLA)
     - **Performances:** measuring and improving preformances of the engine
-    - **Safe communications:** automatic key management for internal protocol
-    - **Code maintainance:** day to day work with a large C++ code base
 
 Previous Positions
 ------------------
@@ -40,7 +41,7 @@ Education
 ---------
 
 - **DEA I³** (2002) Université Paris SUD Orsay - Master in Computer Science
-  **Master Thesis:** Dynamic Security Analysis for XML Documents Transformation
+  - **Master Thesis:** Dynamic Security Analysis for XML Documents Transformation
 
 ### Ph.D
 - **Security Analysis for XML Transformation**
@@ -54,15 +55,9 @@ Education
 - **Doctoral - All But Dissertation.**
 
 ### Skills
-- **Programming:** More than 15 years of programming experience, in C, C++
-  and OCaml, but also Go, Python, Java, SQL, Prolog … I have also developed some
-  skills in **parallel programming** using C++11, go, POSIX-threads or Intel's
-  TBB.
-- **Computer Science:** Huge graph exploration, deep learning (applied binary
-  files classification) using modern framework like Keras, Theano or Tensor flow, typing
-  and type inference …
-- **Teaching:** 10 years of teaching in Computer Science field: programming,
-  algorithms, graph theory, parallel programming …
+- **Programming:** 20 years of programming experience, in C, C++
+  and OCaml, but also Go, Python, Java, SQL …
+- **Teaching:** 15 years of teaching Computer Science
 - French (native language)
 - English (fluent, spoken and written)
 
